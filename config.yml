@@ -1,8 +1,12 @@
 # Metadata for your course
 
-title: # a name for your Learning Lab course
-tagline: # a short description for your Learning Lab course, displayed on the course catalog
-description: # a longer description for your Learning Lab course, displayed on the course's landing page
+title: Swift - Hello World!          # a name for your Learning Lab course
+tagline: First steps to writing code with Swift       # a short description for your Learning Lab course, displayed on the course catalog
+description: 
+ - Learn how to write a function
+ - Printing outputs
+ - String Interpolation
+# a longer description for your Learning Lab course, displayed on the course's landing page
 
 # Repository setup
 # The following section template information for the repository
